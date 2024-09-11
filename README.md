@@ -1,8 +1,3 @@
-# gh-tf-mio
+# Pin 2 MundosE
 
-lanzando v10 con buckets y dinamodb!!
-
-(HINT. armar el bucket S3, y la base dynamodb a mano).
-
-SI se quiere terrafonear, mejor.
-Lanzando
+Instrucciones en el pdf
